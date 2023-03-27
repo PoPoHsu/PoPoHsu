@@ -1,20 +1,25 @@
 # Hi ,everyone! Welcome to my Profile !
 
-:+1: About me
+**About me**
+
 A student in Taiwan. Study in National Chung Hsing University.
 research aboout air quality and compile a little air quality model.
-welcome to discuss to me ! 
+
+**Recent Target**
+* Finish my graduate in master.
+
+* Learning more and more about Front & Back End 
+
+* Find my career .
 
 
-* My Skill
+* Use Language
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,mysql)](https://skillicons.dev)
 
 
 
+<img src = "https://i.imgur.com/2XP0OMA.png" width =90%>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PoPoHsu&theme=algolia)
-<img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PoPoHsu&theme=algolia" width =50%>
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PoPoHsu&theme=algolia&utcOffset=8)
 
 
 
