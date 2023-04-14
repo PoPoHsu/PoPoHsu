@@ -2,7 +2,7 @@
 
 **About me**
 
-A student in Taiwan. Study at National Chung Hsing University.
+This is Byron ,A student in Taiwan. Study at National Chung Hsing University.
 Rsearch aboout Air Quality and Weather Forecast System.
 
 **Recent Target**
