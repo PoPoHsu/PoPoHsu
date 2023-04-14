@@ -2,7 +2,7 @@
 
 **About me**
 
-A student in Taiwan. Study in National Chung Hsing University.
+A student in Taiwan. Study at National Chung Hsing University.
 research aboout air quality and compile a little air quality model.
 
 **Recent Target**
