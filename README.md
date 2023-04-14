@@ -3,7 +3,7 @@
 **About me**
 
 A student in Taiwan. Study at National Chung Hsing University.
-research aboout air quality and compile a little air quality model.
+Rsearch aboout Air Quality and Weather Forecast System.
 
 **Recent Target**
 * Finish my graduate in master.
@@ -13,12 +13,12 @@ research aboout air quality and compile a little air quality model.
 * Find my career .
 
 
-* Use Language
+* SKill :
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,mysql)](https://skillicons.dev)
 
 
 
-<img src = "https://i.imgur.com/2XP0OMA.png" width =90%>
+<img src = "https://i.imgur.com/2XP0OMA.png" width =50%>
 
 
 
