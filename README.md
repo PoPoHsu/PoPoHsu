@@ -5,12 +5,6 @@
 This is Byron ,A student in Taiwan. Study at National Chung Hsing University.
 Rsearch aboout Air Quality and Weather Forecast System.
 
-**Recent Target**
-* Finish my graduate in master.
-
-* Learning more and more about Front & Back End 
-
-* Find my career .
 
 
 * SKill :
